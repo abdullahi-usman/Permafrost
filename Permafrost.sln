@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30002.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "Permafrost", "Permafrost.njsproj", "{0273D83A-EEEE-48E2-AD41-D8DF46A545C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0273D83A-EEEE-48E2-AD41-D8DF46A545C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0273D83A-EEEE-48E2-AD41-D8DF46A545C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0273D83A-EEEE-48E2-AD41-D8DF46A545C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0273D83A-EEEE-48E2-AD41-D8DF46A545C1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {54E2089E-E966-49E2-912B-C16C617D67A3}
+	EndGlobalSection
+EndGlobal
