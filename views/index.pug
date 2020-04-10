@@ -1,5 +1,12 @@
 extends layout
 
 block content
-  h1= title
-  p Welcome to #{title}
+  div(class="no-scripting" id="no-scripting")
+    p(class="no-script-message") Javascript is not enabled, this website will not function effectively
+    
+  header
+    div(class="header-head")
+      img(class="header-head-img")
+      span(class="header-head-title") Chemical code
+  
+  script(src="/javascripts/main.js")

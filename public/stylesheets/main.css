@@ -6,3 +6,23 @@ body {
 a {
     color: #00B7FF;
 }
+
+.no-scripting {
+    display: none;
+    background-color: darkgray;
+}
+
+.no-script-message {
+    font-family: 'Cascadia Code', 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 500;
+    font-size: larger;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    color: crimson;
+}
+
+
+.no-scripting {
+    display: block;
+    text-align: center;
+}
